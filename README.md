@@ -5,7 +5,7 @@
 2. Docker
 
 
-##To run prometheus
+## To run prometheus
 
 1. git clone https://github.com/NP-compete/Prometheus-Setup
 2. sudo sh start.sh
