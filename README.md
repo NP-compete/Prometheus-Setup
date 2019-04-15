@@ -16,3 +16,6 @@
 2. sudo sh docker-metrics.sh
 3. sudo sh start.sh
 
+## TODO
+
+1. Include grafana Visulaizations
